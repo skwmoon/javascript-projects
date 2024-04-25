@@ -36,4 +36,4 @@ let daysToMoon = hoursToMoon / 24;
 console.log(milesToMoon);
 console.log(hoursToMoon);
 console.log(daysToMoon);
-console.log( nameOfSpaceShuttle + ' will take ' + daysToMoon + ' days to reach the Moon.');
+console.log(nameOfSpaceShuttle + ' will take ' + daysToMoon + ' days to reach the Moon.');
