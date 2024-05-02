@@ -30,3 +30,5 @@ if (launchReady) {
 } else {
    console.log('Launch scrubbed.');
 }
+
+console.log("Should the shuttle have launched? No. Did it? Yes.")

@@ -35,3 +35,5 @@ console.log("launchReady = ", launchReady);
 // } else {
 //    console.log('Launch scrubbed.');
 // }
+
+console.log("Should readyLaunch be true or false? False. Is the program behaving as expect? Yes.")
