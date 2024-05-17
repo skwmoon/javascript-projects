@@ -6,7 +6,6 @@ let newDna = dna.replace(dna,newString);
 
 // First, print out the dna strand in it's current state.
 
-
 //1) Use the .trim() method to remove the leading and trailing whitespace, then print the result.
 
 console.log(newString);
